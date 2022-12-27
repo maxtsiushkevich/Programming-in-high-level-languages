@@ -1,0 +1,3 @@
+/Users/max/Desktop/lab4g/cmake-build-debug/CMakeFiles/lab4g.dir
+/Users/max/Desktop/lab4g/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/max/Desktop/lab4g/cmake-build-debug/CMakeFiles/rebuild_cache.dir
