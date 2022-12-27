@@ -1,0 +1,3 @@
+/Users/max/Desktop/лабы/lab4norm/cmake-build-debug/CMakeFiles/lab4norm.dir
+/Users/max/Desktop/лабы/lab4norm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/max/Desktop/лабы/lab4norm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
